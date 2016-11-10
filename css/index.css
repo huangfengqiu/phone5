@@ -1,0 +1,49 @@
+/* 
+* @Author: Marte
+* @Date:   2016-06-27 14:16:48
+* @Last Modified by:   Marte
+* @Last Modified time: 2016-07-04 15:02:38
+html{font-size:7.5rem;}
+*/
+html{ font-family:'Microsoft Yahei';font-size:7.5rem;}
+/*.wrap1的内容*/
+.wrap1{ width:100%; height:100%; background:url(../img/job_bg.jpg) no-repeat; background-size:100%;position:relative;}
+.job_logo{ width:7.05rem; height:2.85rem; background:url(../img/zpzw2.png) no-repeat; background-size:7.05rem 2.85rem;}
+.search_icon{ width:2.09rem; height:2.66rem; background:url(../img/search_icon.png) no-repeat; background-size:2.09rem 2.66rem; position:absolute; right:0rem; top:0.87rem;}
+.con_box{ width:6.22rem; height:6.84rem; border:0.04rem solid #fff; margin:0 auto; margin-top:0.81rem;}
+.con_list>li{ width:5.01rem; height:1.2rem; background:#fff; border-radius:4px;margin:0 auto; margin-top:0.4rem; padding-left:0.49rem; padding-right:0.2rem; position:relative;}
+.con_list>li i{ width:0.5rem; height:0.5rem; background:#ffbc3b; border-radius:50%; position:absolute; top:-0.13rem; left:-0.16rem; font-size:0.38rem;color:#fff;text-align:center; line-height:0.46rem; font-style:normal;}
+.name h3{ font-size:0.3rem; color:#444; font-weight:bold; margin-top:0.24rem;margin-bottom:0.18rem;}
+.place_info span{ float:left; font-size:0.26rem; color:#444; padding-right:0.2rem; border-right:0.01rem solid #909090; margin-left:0.15rem;}
+.place_info span:first-child{margin-left:0rem;}
+.place_info span:last-child{border-right:none;}
+.pay{font-size:0.36rem;color:#ff9000; font-weight:bold; line-height:1.2rem;}
+
+.people_icon{ width:1.15rem; height:1.56rem; background:url(../img/people_03.png) no-repeat; background-size:1.15rem 1.56rem; position:absolute; top:9.86rem;right:-0.06rem;}
+
+.arrow{ width:0.76rem; height:0.39rem; background:url(../img/arrow1.png) no-repeat; background-size:0.76rem 0.39rem; display:block; margin:0 auto; margin-top:1.57rem;}
+
+/*wrap2的内容*/
+.wrap2{ width:7.5rem;height:100%;background:#7275e7 url(../img/fldy_bj1_02.png) no-repeat bottom; background-size:7.5rem 4.09rem; position:relative;}
+.welfare{ width:7.04rem; height:2.85rem; background:url(../img/fldy_logo_01.png) no-repeat; background-size:7.04rem 2.85rem;}
+.fare_hand{ width:2.06rem; height:1.89rem; background:url(../img/fldy_hand_03.png) no-repeat; background-size:2.06rem 1.89rem; position:absolute;top:1.37rem; right:0rem;}
+.taobao{ width:2.4rem; height:2.4rem; background:#fff url(../img/fldy_taobao_03.png) no-repeat center; background-size:1.73rem 0.77rem; border-radius:50%; margin:0 auto; margin-top:0.56rem;box-shadow:0 0 0.06rem 0.08rem rgba(255,255,255,0.3);}
+.welfare_type{ width:5.66rem; margin:0 auto; margin-top:0.3rem; position:relative;}
+.welfare_type a{ width:1.79rem; height:1.79rem; border:0.05rem solid #fff; border-radius:50%; display:block;position:relative; float:left;}
+.welfare_type .annual{} /*带薪年假*/
+.welfare_type .double{float:right;}/*年底双薪*/
+.welfare_type .subsidy{ position:absolute center; top:1.5rem;}/*餐车补助*/
+.welfare_type .shares{margin-top:1.2rem;}/*股票期权*/
+.welfare_type .holiday{float:right;margin-top:1.2rem;}/*节日福利*/
+
+.welfare_type a span{font-size:0.42rem;color:#fff;font-weight:bold; width:0.9rem; display:block; margin-left:0.45rem; margin-top:0.4rem; line-height:0.5rem; letter-spacing: 0.03rem; }
+.welfare_type a i{ width:0.32rem; height:0.32rem; background:url(../img/fldy_right_03.png) no-repeat; background-size:0.32rem 0.32rem; position:absolute; right:0.16rem; bottom:0.1rem;}
+.gold{ width:0.86rem; position:absolute; top:10.58rem;right:0.2rem;}
+.gold b{ width:0.82rem; height:1.52rem; background:url(../img/man_03.png) no-repeat; background-size:0.82rem 1.52rem; display:block;}
+.gold i{width:0.83rem;height:0.13rem;background:rgba(255,255,255,0.1); border-radius:60%; display:block; position:absolute;bottom:-0.05rem;right:0.07rem;}
+
+.welfare_arrow{ width:0.76rem; height:0.39rem; background:url(../img/arrow1.png) no-repeat; background-size:0.76rem 0.39rem; display:block; margin:0 auto; margin-top:1.03rem; /*padding-bottom:0.8rem;*/}
+
+
+
+
